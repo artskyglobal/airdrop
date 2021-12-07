@@ -2,11 +2,6 @@
 
 /**
  * Adopted from https://github.com/XuHugo/solidityproject/blob/master/airdrop/airdrop.sol 
- * With modification such that it uses transferFrom instead of transfer.
- * So the contract does not hold tokens.
- * This contract is written based on requirement for MEONG Token.
- * https://bscscan.com/token/0x464acc420607d818f271875552868ddf8095cafe
- * 
 */
 
 pragma solidity ^0.8.0;
